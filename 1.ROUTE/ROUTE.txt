@@ -17,8 +17,8 @@ copy running-config startup-config
 
 ! ------- Tracer la route -------------
 config t
-ip route  192.168.100.0 GigabitEthernet 0/1 150
-ip route  192.168.200.0 GigabitEthernet 0/0 150
+ip route  192.168.100.0 255.255.255.0 GigabitEthernet 0/1 150
+ip route  192.168.200.0 255.255.255.0 GigabitEthernet 0/0 150
 exit
 exit
 
