@@ -12,7 +12,7 @@ Pour pratiquer cet example:
 - Executer les commandes du fichier .txt
 ```
 
-![alt tag](https://github.com/setrar/INF1021/blob/master/1.ROUTE/ROUTE.png)
+![alt tag](https://github.com/CollegeBoreal/INF1021-16H/blob/master/1.ROUTE/ROUTE.png)
 
 ## Le but de l'exercice:
 
