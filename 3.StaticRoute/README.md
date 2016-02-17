@@ -5,7 +5,6 @@
 Pour pratiquer cet example:
 ```
 - utiliser PacketTracer
-- Ouvrir le fichier ../0.IPv4/IPv4.pkt
 - Executer les commandes du fichier .txt
 ```
 
